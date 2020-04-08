@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb87091-ba4d-445c-90d2-291d4c5e8241" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/_friends-list.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/_publish-tweet-panel.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/_sidebar-links.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/_tweet.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/_publish-tweet-panel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/_publish-tweet-panel.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/_tweet.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/_tweet.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,11 +172,21 @@
       <option name="presentableId" value="Default" />
       <updated>1586143904185</updated>
       <workItem from="1586143905977" duration="760000" />
-      <workItem from="1586144712913" duration="5591000" />
+      <workItem from="1586144712913" duration="9681000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="11" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586359060748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="554" y="11" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1600.0.1536.832/3520.0.1280.680/0.0.1600.860@0.0.1600.860" timestamp="1586359060748" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586359407871">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/1600.0.1536.832/3520.0.1280.680/0.0.1600.860@0.0.1600.860" timestamp="1586359407871" />
   </component>
 </project>
